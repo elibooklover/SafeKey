@@ -10,8 +10,7 @@ SafeKey Wallet is a secure and lightweight password manager that supports syncin
 * Supports a search function with an unlimited number of items.
 * Add notes to each item, such as answers to verification questions.
 
-![Screenshot1](https://elibooklover.github.io/SafeKey/Screenshot1.png) 
-![Screenshot2](https://elibooklover.github.io/SafeKey/Screenshot2.png) 
+![Screenshot1](https://elibooklover.github.io/SafeKey/Screenshot1.png) ![Screenshot2](https://elibooklover.github.io/SafeKey/Screenshot2.png) 
 
 For the utmost transparency, please visit our [Privacy Policy page](privacy.md) to learn about our data handling practices.
 
