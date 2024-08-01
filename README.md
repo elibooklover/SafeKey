@@ -10,7 +10,7 @@ SafeKey Wallet is a secure and lightweight password manager that supports syncin
 * Supports a search function with an unlimited number of items.
 * Add notes to each item, such as answers to verification questions.
 
-<a href="https://apps.apple.com/us/app/colorizer-colorize-photos/id6590601683">
+<a href="https://apps.apple.com/us/app/safekey-password-manager/id6475980444">
   <img src="https://elibooklover.github.io/Colorizer/appstore.png" alt="appstore" width="128"/>
 </a>
 
